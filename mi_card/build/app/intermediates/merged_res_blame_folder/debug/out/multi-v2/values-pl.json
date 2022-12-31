@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\rosso\\Documents\\Android_Studio_Projects\\mi_card_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+            "outputFile": "C:\\Users\\rosso\\github\\App-Brewery-Flutter-Course-Projects\\mi_card\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\rosso\\.gradle\\caches\\transforms-3\\cdc8381483b8f93e69df15ad3eb1e86a\\transformed\\core-1.6.0\\res\\values-pl\\values-pl.xml",
