@@ -1,4 +1,0 @@
-#Sat Dec 31 15:00:13 PST 2022
-base.0=C\:\\Users\\rosso\\github\\App-Brewery-Flutter-Course-Projects\\mi_card\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
