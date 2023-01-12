@@ -13,38 +13,21 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
       backgroundColor: Colors.teal,
       body: SafeArea(
-        child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: <Widget>[
-              Container(
-                height: double.infinity,
-                width: 100.0,
-                color: Colors.red,
-                child: Text('Hello'),
-              ),
-              Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: <Widget>[
-                  Container(
-                    height: 100.0,
-                    width: 100.0,
-                    color: Colors.yellow,
-                  ),
-                  Container(
-                    height: 100.0,
-                    width: 100.0,
-                    color: Colors.green,
-                  )
-                ],
-              ),
-              Container(
-                height: double.infinity,
-                width: 100.0,
-                color: Colors.blue,
-                child: Text('Hello'),
-              ),
-            ]),
-      ),
+          child: Column(
+        children: <Widget>[
+          CircleAvatar(
+            radius: 75.0,
+            backgroundImage: AssetImage('images/ross.jfif'),
+          ),
+          Text(
+            'Ross Olason',
+            style: TextStyle(
+                fontSize: 40.0,
+                color: Colors.white,
+                fontWeight: FontWeight.bold),
+          )
+        ],
+      )),
     ));
   }
 }
