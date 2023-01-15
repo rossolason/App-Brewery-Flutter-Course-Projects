@@ -1,5 +1,7 @@
 # mi_card
 
+![image](https://user-images.githubusercontent.com/121698193/212503497-473ed306-253d-48b7-abcd-fb3e4634522b.png)
+
 A new Flutter project.
 
 ## Getting Started
