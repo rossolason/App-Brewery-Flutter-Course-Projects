@@ -1,16 +1,6 @@
 # i_am_rich
 
-A new Flutter project.
+A simple project to familiarize myself with the Flutter/Dart system and layout structure.
+This is a project as part of the App Brewery Flutter course.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/121698193/212554518-cde49a73-ba8a-400e-920c-ce431de21a9e.png)
