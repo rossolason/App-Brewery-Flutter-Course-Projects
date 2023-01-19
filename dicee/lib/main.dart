@@ -7,7 +7,7 @@ void main() {
     backgroundColor: Colors.red,
     appBar: AppBar(
       centerTitle: true,
-      title: const Text('Dicmee'),
+      title: const Text('Dicee'),
       backgroundColor: Colors.red,
     ),
     body: DicePage(),
